@@ -37,7 +37,7 @@ A plataforma tem como objetivo facilitar o processo de adoção responsável de 
 
 Se você deseja executar o projeto localmente, siga as instruções em nossos subdiretórios:
 
-- ~~[Backend]()~~
-- ~~[Frontend]()~~
+- [Backend](https://github.com/meupetideal/meupetideal-backend)
+- ~~[Frontend]()~~ _soon_
 
 Certifique-se de seguir as orientações específicas para cada componente do projeto.
